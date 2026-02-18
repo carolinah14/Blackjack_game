@@ -28,14 +28,14 @@ Follow the on-screen prompts to play the game.
 
 🧠 Concepts Practiced
 
-Writing and organizing multiple functions
-Returning values vs. printing inside functions
-Using loops (`while`, `for`) to control game flow
-Conditional logic for game rules and outcomes
-Working with lists to store and update game state
-Random selection with random.choice()
-Handling special Blackjack rules (Blackjack = 21, Ace value adjustment)
-Comparing final scores to determine the winner
-Restarting the program using loop-based control flow
-Importing ASCII art from another file
-Console-based user interaction
+- Writing and organizing multiple functions
+- Returning values vs. printing inside functions
+- Using loops (`while`, `for`) to control game flow
+- Conditional logic for game rules and outcomes
+- Working with lists to store and update game state
+- Random selection with random.choice()
+- Handling special Blackjack rules (Blackjack = 21, Ace value adjustment)
+- Comparing final scores to determine the winner
+- Restarting the program using loop-based control flow
+- Importing ASCII art from another file
+- Console-based user interaction
