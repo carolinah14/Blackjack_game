@@ -30,6 +30,7 @@ Follow the on-screen prompts to play the game.
 
 - Writing and organizing multiple functions
 - Returning values vs. printing inside functions
+- Writing docstrings for function documentation and code clarity
 - Using loops (`while`, `for`) to control game flow
 - Conditional logic for game rules and outcomes
 - Working with lists to store and update game state
